@@ -3,7 +3,18 @@
 
 ## Project Description
 
-The Training Advisor application provides career and training advice for software engineering students and professionals. The application is designed to assist users with registration, login, user profile management, course search and enrollment, course interaction, progress tracking, course withdrawal, course completion, and administrative functions. It offers a console-based interface and leverages PHP, Bootstrap, and MySQL as the underlying technologies. The application allows users to access a variety of courses, interact with course components such as quizzes, exams, materials, and videos, track their progress, and receive certificates upon course completion. The administration functions enable administrators to manage courses, define materials and prerequisites, set up exams and quizzes, and perform other administrative tasks. With its user-friendly features and comprehensive functionality, the Training Advisor application aims to provide valuable guidance and support for software engineering professionals and learners.
+The Training Advisor application provides career and training advice for software engineering students and professionals.
+The application is designed to assist users with 
+1.registration, login.
+2. user profile management
+3. course search and enrollment, course interaction.
+4. progress tracking, course withdrawal, course completion,.
+5. administrative functions. 
+6. It offers a console-based interface and leverages JAVA, and MySQL as the underlying technologies. 
+
+#The application allows users to access a variety of courses, interact with course components such as quizzes, exams, materials, and videos, track their progress, and receive certificates upon course completion. 
+#The administration functions enable administrators to manage courses, define materials and prerequisites, set up exams and quizzes, and perform other administrative tasks. 
+#With its user-friendly features and comprehensive functionality, the Training Advisor application aims to provide valuable guidance and support for software engineering professionals and learners.
 
 ## Training Advisor Test Cases
 
